@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-l3pk@e2i9o3*%))_*#6ndvo0wtzkp2$76i=a6zh0)z$e@n7!c!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-jk-todo-app/settings']
 
 
 # Application definition
